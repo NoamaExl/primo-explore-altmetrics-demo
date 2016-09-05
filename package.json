@@ -1,71 +1,11 @@
 {
-  "_args": [
-    [
-      "primo-explore-altmetrics-widget@0.0.2",
-      "C:\\igelu2016\\dev\\primo-explore-devenv-master\\primo-explore\\custom\\WHITESHORE"
-    ]
-  ],
-  "_from": "primo-explore-altmetrics-widget@0.0.2",
-  "_id": "primo-explore-altmetrics-widget@0.0.2",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/primo-explore-altmetrics-widget",
-  "_nodeVersion": "4.4.2",
-  "_npmOperationalInternal": {
-    "host": "packages-12-west.internal.npmjs.com",
-    "tmp": "tmp/primo-explore-altmetrics-widget-0.0.2.tgz_1471180039843_0.446549876825884"
-  },
-  "_npmUser": {
-    "email": "noamamit92@gmail.com",
-    "name": "noamamit92"
-  },
-  "_npmVersion": "3.3.12",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "primo-explore-altmetrics-widget",
-    "raw": "primo-explore-altmetrics-widget@0.0.2",
-    "rawSpec": "0.0.2",
-    "scope": null,
-    "spec": "0.0.2",
-    "type": "version"
-  },
-  "_requiredBy": [
-    "#DEV:/"
-  ],
-  "_resolved": "http://registry.npmjs.org/primo-explore-altmetrics-widget/-/primo-explore-altmetrics-widget-0.0.2.tgz",
-  "_shasum": "76636fde1df3bdacec52bbbba324e16d9eac8a58",
-  "_shrinkwrap": null,
-  "_spec": "primo-explore-altmetrics-widget@0.0.2",
-  "_where": "C:\\igelu2016\\dev\\primo-explore-devenv-master\\primo-explore\\custom\\WHITESHORE",
-  "author": {
-    "name": "noamamit92"
-  },
-  "bugs": {
-    "url": "https://github.com/noamamit92/primo-explore-altmetrics-widget/issues"
-  },
-  "dependencies": {},
-  "description": "add an altmetrics widget to the primo full view",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "76636fde1df3bdacec52bbbba324e16d9eac8a58",
-    "tarball": "https://registry.npmjs.org/primo-explore-altmetrics-widget/-/primo-explore-altmetrics-widget-0.0.2.tgz"
-  },
-  "gitHead": "130f52074cf85480d349febe6502ae004e9d13eb",
-  "homepage": "https://github.com/noamamit92/primo-explore-altmetrics-widget#readme",
-  "maintainers": [
-    {
-      "name": "noamamit92",
-      "email": "noamamit92@gmail.com"
-    }
-  ],
-  "name": "primo-explore-altmetrics-widget",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
+  "name": "primo-explore-altmetrics-demo",
+  "version": "0.0.1",
+  "description": "A Demo altmetrics widget",
+  "author": "noamamit92",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noamamit92/primo-explore-altmetrics-widget.git"
-  },
-  "scripts": {},
-  "version": "0.0.2"
+    "url": "https://github.com/noamamit92/primo-explore-altmetrics-demo.git"
+  }
+
 }
